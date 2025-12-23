@@ -30,7 +30,7 @@ $mail->setFrom('info@selfdrivex.in', 'A One Self Drive Car');
 $mail->addReplyTo('info@selfdrivex.in', 'Test Email'); 
  
 // Add a recipient 
-$mail->addAddress('Selfdrivex@gmail.com'); 
+$mail->addAddress('a1wheelsrental@gmail.com'); 
  
 // Add cc or bcc  
 // $mail->addCC('cc@example.com'); 
